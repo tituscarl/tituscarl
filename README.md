@@ -1,4 +1,4 @@
-## Hi there 👋
+## Check out my personal [website](https://carl-nu.vercel.app/)
 
 <!--
 **tituscarl/tituscarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
